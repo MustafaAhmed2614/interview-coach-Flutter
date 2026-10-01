@@ -1,6 +1,6 @@
 # 🎙️ Interview Coach
 
-An AI-powered voice interview practice application built with Flutter[cite: 3]. Practice mock interviews out loud with real-time speech recognition, instant voice feedback, and performance analytics[cite: 3].
+An AI-powered voice interview practice application built with Flutter. Practice mock interviews out loud with real-time speech recognition, instant voice feedback, and performance analytics.
 
 ---
 
